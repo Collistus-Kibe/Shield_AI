@@ -1,0 +1,20 @@
+# --- IGNORE SECRETS ---
+.env
+hive_config.py
+secrets.json
+
+# --- IGNORE PYTHON JUNK ---
+__pycache__/
+*.pyc
+venv/
+env/
+dist/
+build/
+*.spec
+
+# --- IGNORE DATABASE ---
+*.db
+*.sqlite3
+
+# --- IGNORE LOGS ---
+*.log

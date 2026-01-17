@@ -1,0 +1,23 @@
+{
+    "user_roles": {
+        "Admin": "Administrator",
+        "SYSTEM": "System_Account",
+        "j.doe": "Standard_User",
+        "s.smith": "Standard_User",
+        "m.intern": "Intern_Limited"
+    },
+    "role_permissions": {
+        "Administrator": {
+            "privilege_level": 10
+        },
+        "System_Account": {
+            "privilege_level": 10
+        },
+        "Standard_User": {
+            "privilege_level": 5
+        },
+        "Intern_Limited": {
+            "privilege_level": 1
+        }
+    }
+}

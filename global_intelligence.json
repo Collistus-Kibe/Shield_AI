@@ -1,0 +1,17 @@
+{
+    "trusted_processes": [
+        "svchost.exe",
+        "lsass.exe",
+        "wininit.exe",
+        "services.exe",
+        "explorer.exe",
+        "Code.exe",
+        "chrome.exe",
+        "python.exe"
+    ],
+    "confirmed_threats": [
+        "CodeSetup-stable-f220831ea2d946c0dcb0f3eaa480eb435a2c1260.tmp",
+        "CodeSetup-stable-f220831ea2d946c0dcb0f3eaa480eb435a2c1260.exe",
+        "com.docker.build.exe"
+    ]
+}
