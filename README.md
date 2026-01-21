@@ -1,3 +1,6 @@
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c455fbcb-83f9-46b1-8a3f-4fc403c90cfe" />
+
+
 # 🛡️ SHIELD AI // TITAN PROTOCOL
 ### Next-Generation Endpoint Defense & Neural Swarm Intelligence
 
